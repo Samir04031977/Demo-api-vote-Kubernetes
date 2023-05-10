@@ -1,1 +1,6 @@
+Kubectl get nodes
+Kubectl apply -f .\ressources\
+Kubectl get all
+Kubectl port-forward service/result-ui 5001
+Kubectl port-forward service/vote-ui 5000
 
